@@ -1,9 +1,3 @@
-<p align="center">
-<img src= "https://user-images.githubusercontent.com/90606431/214013925-654f5dec-b81f-4fa0-bda9-7458bc7a1abd.jpg" />
-</p>
-
-
-
 ## Projet : Jexi App ##
 
  Création de son propre "chat-gpt" en utilisant l'Api de OpenAi.
@@ -12,10 +6,16 @@
 Ce projet utilisera NodeJs, Express et API OpenAi pour le backend, et Vue3 pour le frontend.
 <br>
 
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/214013925-654f5dec-b81f-4fa0-bda9-7458bc7a1abd.jpg" />
+</p>
+
+
+
  ## API d'OpenAi ##
 
  
-  ## Objectif de l'application : Dessine-moi ... ## 
+  ## Objectif de l'application : Jexi App ## 
 
 Le but de l'app est de créer son propre tchat-gpt en utilisant l'Ai d'OpenAi !!
 
