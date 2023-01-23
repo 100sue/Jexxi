@@ -5,7 +5,7 @@
       <textarea
         rows="1"
         cols="1"
-        placeholder="Ask JexxiChat..."
+        placeholder="Ask JexiChat..."
         v-model="question"
       ></textarea>
       <button type="submit"><img src="@/assets/send.svg" alt="send" /></button>
@@ -20,7 +20,7 @@ const question = ref("");
 
 
 const fetchAnswer = async () => {
-  console.log('');
+  console.log(question.value);
 }
 
 </script>
