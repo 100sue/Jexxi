@@ -23,8 +23,9 @@ Coté développement, c'est une manière sympa de voir comment fonctionne l'API 
 
 https://beta.openai.com/docs/introduction
 
-Voir aussi projet pour le fun : "Petit Prince "
+Voir aussi projet : "Petit Prince ", "Hermes", qui utilisent aussi l'Api d'OpenAi.
 lien : https://github.com/100sue/Petit-prince
+lien : https://github.com/100sue/hermes
 
 
  ## Technologies utilisées : ##
