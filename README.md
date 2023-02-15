@@ -7,7 +7,7 @@ Ce projet utilisera NodeJs, Express et API OpenAi pour le backend, et Vue3 pour 
 <br>
 
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/90606431/214013925-654f5dec-b81f-4fa0-bda9-7458bc7a1abd.jpg" />
+<img src= "https://user-images.githubusercontent.com/90606431/219114125-8b21edbe-7302-4d43-9996-ccac64292e9a.png" />
 </p>
 
 
@@ -43,6 +43,9 @@ Voir aussi les applications : "Petit Prince ", "Hermes", qui utilisent égalemen
 
 Veuillez cloner ce dépôt : il vous fournira les dossiers nécessaires : backend et frontend.
 
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/219114425-1f459952-3478-4cc5-a6ba-31dae0380761.png" />
+</p>
 
 
 - Cette application utilise le plugin dotenv pour masquer les données de connexion. 
